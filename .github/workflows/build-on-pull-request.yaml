@@ -1,4 +1,4 @@
-name: Build FFmpeg on pull request
+name: Build FFmpeg on Pull request
 on:
   pull_request_target:
     paths:
